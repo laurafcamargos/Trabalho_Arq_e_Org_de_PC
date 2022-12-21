@@ -20,3 +20,7 @@ A rodada termina quando o usuário acerta a palavra escolhida pelo jogo ou quand
 
 ![2](https://user-images.githubusercontent.com/98365041/208982492-e5fec445-da9c-4598-b292-a9ba989c38b4.jpeg)
 
+## Vídeo do jogo
+
+[clica em mim](https://drive.google.com/file/d/197os8KzNxZlr2dw7ohR86zFPIzzmmkz3/view?usp=share_link)
+
